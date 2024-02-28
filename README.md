@@ -8,5 +8,5 @@ According to the UML diagrams (Figure 1), R1:People and R2: people_daily_nutriti
 ![alttext](UML.png)
 
 ## CODE IMPLEMENTATION
-First, run [INITIALIZATION](Code/INIIALIZATION.md) to build up the database with the data tables.
-Second, run [Queries All-in-One.sql](Code/Queries//All-in-One.md) to test four type of queries: Aggregation, Subquery, Insert, and Update
+First, run [INITIALIZATION](Code/INITIALIZATION.sql) to build up the database with the data tables.
+Second, run [Queries All-in-One.sql](Code/Queries//All-in-One.sql) to test four type of queries: Aggregation, Subquery, Insert, and Update
