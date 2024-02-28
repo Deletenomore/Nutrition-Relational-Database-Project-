@@ -1,0 +1,59 @@
+Food_ID,Food_Name,Food_Group_id
+1040,"Cows' milk",3000
+1042,Buttermilk,3000
+1045,"Powdered milk",3000
+1048,"Goats' milk",3000
+1054,"Ice cream",3000
+1058,Cheese,3000
+1062,"Cream cheese",3000
+1067,"Eggs Scrambled or fried",3000
+1068,Yolks,3001
+1069,Butter,3001
+1075,"Margarine, 2 pat or",3001
+1076,Mayonnaise,3001
+1077,"Corn oil",3001
+1078,"Olive oil",3001
+1080,"French dressing",3001
+1081,"Thousand Island sauce",3001
+1083,Bacon,3002
+1084,Beef,3002
+1085,Hamburger,3002
+1086,"Ground lean",3002
+1087,"Roast beef",3002
+1088,Steak,3002
+1095,chicken,3002
+1107,"Pork roast",3002
+1112,Clams,3003
+1114,"Crab meat",3003
+1115,"Fish sticks fried",3003
+1120,Lobster,3003
+1124,Salmon,3003
+1125,Sardines,3003
+1128,Shrimp,3003
+1130,Tuna,3003
+1133,Beans,3004
+1145,Carrots,3004
+1153,Corn,3004
+1162,Lentils,3005
+1168,Onions,3005
+1172,Peas,3005
+1180,"Potatoes, baked",3006
+1195,Tomatoes,3006
+1200,"Turnips, steamed",3006
+1211,Banana,3007
+1213,Blueberries,3007
+1215,Cherries,3007
+1238,Peaches,3008
+1243,Pineapple,3008
+1250,"Prune juice",3008
+1255,Strawberries,3009
+1257,Tangerines,3009
+1258,"Watermelon Slice",3009
+1267,Cornflakes,3010
+1276,Macaroni,3010
+1280,Oatmeal,3010
+1283,"Pizza 14 diam.""""",3010
+1287,Rice,3010
+1290,"Rice flakes",3010
+1297,"Spanish rice",3010
+1299,Waffles,3010
